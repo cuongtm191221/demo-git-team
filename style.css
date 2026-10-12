@@ -6,13 +6,17 @@ body {
     color: #333;
 }
 
-h3 {
+/* h3 {
     color: #2c3e50;
     margin-top: 16px;
     margin-bottom: 6px;
-}
+} */
 
 p {
     margin: 4px 0 12px 0;
     color: #555;
+}
+
+h1 {
+    color: rgb(red, rgb(51, 69, 160), blue);
 }
